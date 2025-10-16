@@ -1,0 +1,5 @@
+{
+  "name": "TaskDrift - College Notes Hub",
+  "description": "An interactive and modern web application for students to upload, view, and share college notes securely. Features 3D elements, robust filtering, and user-specific permissions.",
+  "requestFramePermissions": []
+}
